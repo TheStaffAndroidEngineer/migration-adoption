@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:label="Common Goods storage witness" android:allowBackup="false" />
+    <instrumentation android:name="staff.android.adoption.witness.StateWitness" android:targetPackage="staff.android.adoption" android:functionalTest="true" android:handleProfiling="false" />
+</manifest>
